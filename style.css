@@ -1,0 +1,8 @@
+ #main{
+    background-color: #EEEEEE;
+    font-family: -apple-system, blinkmacsystemfont, 'segoe UI', 'roboto', 'Helvetica Neue', Arial,sans-serif;
+}
+#main #header{
+    text-align: center;
+    padding: 10px;
+}
